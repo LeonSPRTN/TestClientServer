@@ -1,0 +1,13 @@
+D:\ProjectProgram\TestClientServer\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csprojAssemblyReference.cache
+D:\ProjectProgram\TestClientServer\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfoInputs.cache
+D:\ProjectProgram\TestClientServer\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.AssemblyInfo.cs
+D:\ProjectProgram\TestClientServer\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.csproj.CoreCompileInputs.cache
+D:\ProjectProgram\TestClientServer\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.exe
+D:\ProjectProgram\TestClientServer\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.deps.json
+D:\ProjectProgram\TestClientServer\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.json
+D:\ProjectProgram\TestClientServer\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.runtimeconfig.dev.json
+D:\ProjectProgram\TestClientServer\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.dll
+D:\ProjectProgram\TestClientServer\ServerApp\bin\Debug\netcoreapp3.1\ServerApp.pdb
+D:\ProjectProgram\TestClientServer\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.dll
+D:\ProjectProgram\TestClientServer\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.pdb
+D:\ProjectProgram\TestClientServer\ServerApp\obj\Debug\netcoreapp3.1\ServerApp.genruntimeconfig.cache
